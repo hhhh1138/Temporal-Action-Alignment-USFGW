@@ -5,6 +5,18 @@ The official github for ACM MM 2022 paper "**Weakly-Supervised Temporal Action A
 
 Please download data according to `data/README.md` and place them correctly.
 
+
+## Project Struture
+
+```
+.
+├── data
+│   ├── Breakfast
+│   ├── Holllywood
+│   └── Crosstask
+└── US-FGW
+```
+
 ## Main Dependencies
 
 - argparse
